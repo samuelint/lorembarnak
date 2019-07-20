@@ -1,4 +1,12 @@
-.idea/
-node_modules/
-dist/
-package-lock.json
+/target
+/classes
+/checkouts
+profiles.clj
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
