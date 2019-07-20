@@ -1,5 +1,5 @@
-# Lorembarnak
-**The *Québécois* swear generator**
+# Lorembarnak - Clojure
+**The *Québécois* swear generator**<br>
 Fork from Typescript project (https://github.com/henrymyers/lorembarnak)
 
 Ever need placeholder text for something that really pisses you off?<br>
@@ -9,7 +9,7 @@ Feel like polishing up your french?
 No matter the reason, **Lorembarnak** has you covered with a randomly generated chain of Québécois obscenities.
 
 ## Usage
-`[lorembarnak "1.0.0"]`
+Lein `[lorembarnak "1.0.0"]`
 
 ## Examples
 > Crime de cul de viarge d'ostie de viande à chien de tabarnak.
